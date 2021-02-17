@@ -1,4 +1,4 @@
-# evaluare-c-sharp
+# Evaluare-Laborator V-II
 
 ## Meniul principal
 ![Main Form](Screens/MainForm.png)
